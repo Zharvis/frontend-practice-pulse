@@ -1,0 +1,15 @@
+{
+  "name": "frontend-practice-pulse",
+  "version": "1.0.0",
+  "description": "https://www.frontendpractice.com/projects/pulse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.29.3"
+  }
+}
