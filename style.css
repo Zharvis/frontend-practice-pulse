@@ -29,3 +29,14 @@ select {
 }
 
 /* END OF RESETS */
+
+:root {
+  --clr-primary-200: hsl(146, 62%, 95%);
+  --clr-primary-400: hsl(146, 78%, 51%);
+  --clr-primary-500: hsl(157, 100%, 34%);
+  --clr-neutral-100: hsl(0, 0%, 99%);
+  --clr-neutral-400: hsl(224, 22%, 87%);
+  --clr-neutral-900: hsl(223, 47%, 6%);
+
+  /* FONTS */
+}
